@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>คุณ</title>
+</head>
+<body>
+
+   <a href="https://www.instagram.com/maiixr__xiz/" target="_blank" >
+    <img src=" https://scontent.cdninstagram.com/v/t51.2885-19/491099744_1391179448730990_361056830102893779_n.jpg?stp=dst-jpg_s150x150_tt6&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=f7ccc5&amp;_nc_ohc=i7V118Kxoo8Q7kNvwHTxwdo&amp;_nc_oc=AdnYEF8PCHsJZ8D0hS_bOgED4gCnnzOqe4HJXXs0BYheN53fpyudT5XR4jK__Vi_jOcELQFiOT0HEN_nX3OB59uP&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;_nc_zt=24&amp;_nc_ht=scontent.cdninstagram.com&amp;oh=00_AfHpWy-P3fVHsI65xHQrFwL9KiR-DsKtzG-xpFaUhNAE2Q&amp;oe=6817E17F" alt="rose">
+   </a>
+   
+</body>
+</html>
